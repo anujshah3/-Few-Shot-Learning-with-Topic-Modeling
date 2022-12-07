@@ -67,6 +67,7 @@ notebook_shim==0.2.2
 numpy==1.21.6
 overrides==3.1.0
 packaging==21.3
+pandas==1.1.5
 pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
@@ -84,6 +85,7 @@ PyPDF2==2.11.2
 pyrsistent==0.19.2
 PySocks==1.7.1
 python-dateutil==2.8.2
+pytz==2022.6
 pywin32==305
 pywinpty==2.0.9
 PyYAML==6.0

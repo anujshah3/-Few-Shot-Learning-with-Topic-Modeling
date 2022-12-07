@@ -1,1 +1,5 @@
 venv/
+zero-shot-learning/venv_zsl
+few-shot-learning-I/venv_fsl_I
+few-shot-learning-II/venv_fsl_II
+Topic_Modelling/venv_tm
